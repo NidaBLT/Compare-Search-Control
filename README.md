@@ -25,3 +25,5 @@
             <scope>test</scope>
         </dependency>
 
+# Amaç
+2 farklı arama motorunda verileri karşılaştırarak ortak olanları listelemeye çalıştım. Veri karşılaştırılması ve ortak olanları bulma konusunda takıldığım noktalar oldu. Belirlenen sürede elimden geldiğince yetiştirmeye çalıştım.
